@@ -36,9 +36,11 @@ dependencies:
   cupertino_icons: ^1.0.2
   get_it: ^2.0.1
   flutter_bloc: ^0.21.0
+  bloc:
   equatable: ^0.4.0
   http: ^0.12.0+2
   dartz: ^0.8.6
+  data_connection_checker: ^0.3.4
   connectivity: ^0.4.3+7
   shared_preferences: ^0.5.3+4
 
